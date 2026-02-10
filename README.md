@@ -18,7 +18,7 @@
 I'm a passionate **Full Stack & Flutter Developer** with **2.5+ years** of professional experience building scalable web and mobile applications. Currently working at **Defineway Technologies**, I specialize in transforming complex business requirements into elegant technical solutions.
 
 - 🎓 **B.Tech in Electronics & Communication Engineering** | CGPA: 9.24
-- 💼 **Junior Software Engineer** at Defineway Technologies Pvt. Ltd. (Aug 2023 – Feb 2026)
+- 💼 **Junior Software Engineer** at Defineway Technologies Pvt. Ltd. (Aug 2023 – Jan 2026)
 - 🏆 **Finalist** – Airbus Aerothon 5.0
 - ⭐ **6★ HackerRank** – Problem Solving
 - 💻 **200+ LeetCode Problems** Solved | **Gold Badge in SQL**
@@ -81,7 +81,7 @@ I'm a passionate **Full Stack & Flutter Developer** with **2.5+ years** of profe
 ## 💼 Professional Experience
 
 ### **Junior Software Engineer** @ Defineway Technologies Pvt. Ltd.
-**Aug 2023 – Present**
+**Aug 2023 – Jan 2026**
 
 - 🔨 Contributed to and led development of multiple production-grade web and mobile applications using **MERN stack** and **Flutter**
 - 👥 Led small teams, owned feature delivery, and improved security, performance, and system reliability
